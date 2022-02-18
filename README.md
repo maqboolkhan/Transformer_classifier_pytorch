@@ -7,6 +7,7 @@ A notebook demonstrating use of Transformer's encoder block for multi-class clas
 - It does not use any other library for the model (e.g. Hugging Face). Hence, only uses Pytorch.
 - Transformer itself is a sequence-to-sequence model consisting of Encoder and Decoder block.
 - However, in order to use Transformer for classification task we can only use Encoder block. This notebook demonstrate this!
+- Notebook is heavily commented with tensor's `shape` and possible explanation of logic.
 - Feel free to ask any question regarding the notebook.
 
 Thanks
